@@ -69,7 +69,7 @@ body{
 }
 
 .histogram-slider {
-    background: rgb(255, 243, 230);
+    background-color: rgb(255, 243, 230);
     color: rgb(255, 243, 230);
     top: 40px;
     z-index: 1000000;
