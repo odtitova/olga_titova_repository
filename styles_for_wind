@@ -14,7 +14,7 @@ body{
 }
 
 .banner h2{
-    color: white;
+    color: '#FF8C00';
     padding-top: 10px;
     margin-left: 2%;
     display: inline-block;
