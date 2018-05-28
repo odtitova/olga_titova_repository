@@ -69,6 +69,7 @@ body{
 }
 
 .histogram-slider {
+    background: rgb(255, 243, 230);
     color: rgb(255, 243, 230);
     top: 40px;
     z-index: 1000000;
@@ -85,7 +86,7 @@ body{
     float: right;
     z-index: 10000000;
     position: relative;
-    font-family: Raleway;
+    font-family: Helvetica;
     margin: 0px;
     display: inline-block;
 }
