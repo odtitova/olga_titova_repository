@@ -9,12 +9,12 @@ body{
 .banner {
     height: 75px;
     margin: 0px -10px 10px;
-    background-color: '#FFFFE0';
+    background-color: rgb(255, 243, 230);
     border-radius: 2px;
 }
 
 .banner h2{
-    color: '#FF8C00';
+    color: rgb(255, 153, 0);
     padding-top: 10px;
     margin-left: 2%;
     display: inline-block;
@@ -33,7 +33,7 @@ body{
 
 .wind-speed-row .Title h3{
     font-size: 1.75rem;
-    color: rgb(66, 196, 247);
+    color: rgb(255, 153, 0);
     border-bottom: rgb(216, 216, 216);
     margin-top: 3px;
     margin-left: 10px;
@@ -56,7 +56,7 @@ body{
 
 .wind-histo-polar .wind-histogram .Title h3{
     font-size: 1.75rem;
-    color: rgb(66, 196, 247);
+    color: rgb(255, 153, 0);
     border-bottom: rgb(216, 216, 216);
     margin-top: 3px;
     margin-left: 10px;
@@ -113,7 +113,7 @@ body{
 
 .wind-histo-polar .wind-polar .Title h3{
     font-size: 1.75rem;
-    color: rgb(66, 196, 247);
+    color: rgb(255, 153, 0);
     border-bottom: rgb(216, 216, 216);
     margin-top: 3px;
     margin-left: 10px;
